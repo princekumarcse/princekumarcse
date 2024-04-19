@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prince Kumar 
 - 👀 I’m interested in coding and DSA
-- 🌱 currently learning Java with DSA and system design at PW Skills.
+- 🌱
 - 💞️ I’m looking to collaborate on Software development
 - 📫 How to reach me through mail-princekumarcse62032@gmail.com
 Contact- 6203230954/8409422501
