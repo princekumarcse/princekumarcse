@@ -1,7 +1,8 @@
-- 👋 Hi, I’m Prince Kumar 
-- 👀 I’m interested in coding and DSA
-- 💞️ I’m looking to collaborate on Software development
-- 📫 How to reach me through mail-princekumarcse62032@gmail.com
+👋 Hi, I’m Prince Kumar
+👨‍🏫 I’m a Technical Trainer passionate about Coding, Python, and DSA
+👀 I’m interested in teaching, software development, and building strong programming fundamentals
+💞️ I’m looking to collaborate on training programs, coding projects, and educational content
+📫 How to reach me: [princekumarcse62032@gmail.com](mailto:princekumarcse62032@gmail.com)
 
 <!---
 princekumarcse/princekumarcse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
